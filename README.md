@@ -17,5 +17,4 @@ some random data or TCP-Scans. Since you don't want clicking relais and
 waking printers just because some network-scan. Currently trivially
 checks for some PrintJet arguments.
 
-## TODO:
-- relais implementation via GPIO of Raspberry Pi
+Also has a manual button activating the printer (for scanning etc)
